@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tauseef Taufiq</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
