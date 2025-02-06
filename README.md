@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tauseef Taufiq</h1>
+<h1 align="center">Hi 👋, I'm Tauseef Taufiq Kotekanti</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <hr>
 
