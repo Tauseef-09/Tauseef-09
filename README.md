@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science.**
 
-- 💬 Ask me about **Python, PostgreSQL, Machine Learning.**
+- 💬 Ask me about **Python, PostgreSQL, MySQL, Hadoop, Apache Spark, Tableau, Machine Learning, Deep Learning, LLM.**
 
 - 📫 How to reach me **thausif786999@gmail.com**
-
-- ⚡ Fun fact **I can speak 3 languages: English, Hindi, Telugu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
