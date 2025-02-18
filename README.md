@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, PostgreSQL, MySQL, Hadoop, Apache Spark, Tableau, Machine Learning, Deep Learning, LLM.**
 
-- 📫 How to reach me **thausif786999@gmail.com**
+- 📫 How to reach me **tauseeftaufiqk004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
